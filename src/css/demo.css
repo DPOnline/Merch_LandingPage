@@ -1,0 +1,63 @@
+/* Custom styling */
+
+ul.bjqs-controls.v-centered li a{
+	display:block;
+	padding:10px;
+	background:#1c2b39;
+	color:#d8dcdb;
+	text-decoration: none;
+	font-size:200%;
+}
+
+ul.bjqs-controls.v-centered li a:hover{
+	background:#d8dcdb;
+	color:#1c2b39;
+}
+
+ol.bjqs-markers li a{
+	padding:5px 10px;
+	background:#000;
+	color:#fff;
+	margin:5px;
+	text-decoration: none;
+}
+
+ol.bjqs-markers li.active-marker a,
+ol.bjqs-markers li a:hover{
+	background: #999;
+}
+
+p.bjqs-caption{
+	background: rgba(255,255,255,0.5);
+}
+
+.section-block {
+	background-color: #d8dcdb;
+	padding:15px;
+	height:185px;
+}
+
+.caption-block {
+	background-color:#a23479;
+	color:#fff;
+	font-size:120%;
+	font-weight:700;
+	letter-spacing:0.1em;
+	padding:5px;
+}
+
+.department-image {
+	margin-top:35px;
+}
+
+#topBanana {
+	border-bottom:8px solid #1c2b39;
+	height:248px;
+}
+
+.stripHeader {
+	width: 90%;
+	padding:10px 70px;
+	color: #969696;
+	font-size:2rem;
+}
